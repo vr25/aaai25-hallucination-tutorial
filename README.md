@@ -1,1 +1,1 @@
-# aaai-hallucination-tutorial
+# aaai25-hallucination-tutorial
